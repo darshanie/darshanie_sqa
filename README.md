@@ -1,2 +1,2 @@
 # darshanie_sqa
-changed as ...
+changed UI of supplier module
